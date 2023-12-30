@@ -1,0 +1,32 @@
+# Bulk SMS Tool (Twilio Integration)
+twilio>=6.0.0
+
+# Auto Chatbot (Dialogflow Integration)
+dialogflow>=1.0.0
+google-auth>=1.30.0
+
+# Online Portal (React and Node.js)
+# Frontend
+react>=17.0.2
+react-dom>=17.0.2
+# Backend
+express>=4.17.1
+body-parser>=1.19.0
+
+# Database (MongoDB)
+pymongo>=3.12.0
+
+# Authentication (JSON Web Tokens)
+PyJWT>=2.1.0
+
+# Social Media-Like Platform (WordPress-based)
+# WordPress
+requests>=2.26.0
+# BuddyPress
+buddypress>=8.0.0
+# WP Google Maps
+wp-google-maps>=8.0.0
+# WP Forms
+wpforms>=1.7.0
+# Google Analytics
+googleanalytics>=5.0.0
